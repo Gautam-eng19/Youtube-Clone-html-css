@@ -16,10 +16,6 @@ A responsive YouTube homepage clone built using pure HTML and CSS.
 - HTML5
 - CSS3
 
-## Project Preview
-
-![Project Screenshot](screenshot.png)
-
 ## What I Learned
 
 - Flexbox
