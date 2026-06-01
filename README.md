@@ -38,3 +38,7 @@ A responsive YouTube homepage clone built using pure HTML and CSS.
 ## Author
 
 Gautam Jain
+
+## Live Demo
+
+[View Project](your-link-here)
